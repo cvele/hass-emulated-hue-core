@@ -493,7 +493,7 @@ class HueApiV2Endpoints(api.HueApiEndpoints):
                 "product_name": self.ctl.config_instance.bridge_name,
                 "product_archetype": "bridge_v2",
                 "certified": True,
-                "software_version": "1.59.1959097030"
+                "software_version": "1.62.1962154010"
             },
             "metadata": {
                 "name": self.ctl.config_instance.bridge_name,
